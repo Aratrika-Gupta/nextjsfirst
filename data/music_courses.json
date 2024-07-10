@@ -1,0 +1,105 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "The Persistence of Memory by Salvador Dalí (1931):",
+        "slug": "salvador-dali",
+        "description": "This iconic surrealist painting features melting clocks draped over a barren landscape. It is renowned for its dreamlike quality and exploration of the fluidity of time.",
+        "price": 99.99,
+        "instructor": "John Doe",
+        "isFeatured": true,
+        "image": "/courses/guitar.jpg" 
+      },
+      {
+        "id": 2,
+        "title": "Campbell's Soup Cans by Andy Warhol (1962)",
+        "slug": "piano-for-beginners",
+        "description": "Warhol's series of 32 canvases, each depicting a different flavor of Campbell's soup, is a seminal work in the Pop Art movement. It challenges traditional notions of art and consumerism.",
+        "price": 109.99,
+        "instructor": "Jane Smith",
+        "isFeatured": true,
+        "image": "/courses/piano.jpg" 
+      },
+      {
+        "id": 3,
+        "title": "Guernica by Pablo Picasso (1937)",
+        "slug": "advanced-vocal-techniques",
+        "description": "This powerful mural-sized painting depicts the horrors of the bombing of Guernica during the Spanish Civil War. It is a stark, monochromatic composition that conveys the chaos and suffering of war.",
+        "price": 119.99,
+        "instructor": "Emily Johnson",
+        "isFeatured": true,
+        "image": "/courses/vocalist.jpg" 
+      },
+      {
+        "id": 4,
+        "title": "Drumming Mastery",
+        "slug": "drumming-mastery",
+        "description": "Master the drums with our comprehensive course covering all skill levels.",
+        "price": 129.99,
+        "instructor": "Mike Brown",
+        "isFeatured": false,
+        "image": "/courses/drumming.jpg"
+      },
+      {
+        "id": 5,
+        "title": "Jazz Improvisation",
+        "slug": "jazz-improvisation",
+        "description": "Learn the art of jazz improvisation with this course designed for all levels.",
+        "price": 139.99,
+        "instructor": "Chris Davis",
+        "isFeatured": false,
+        "image": "/courses/jazz.jpg"
+      },
+      {
+        "id": 6,
+        "title": "No. 5, 1948 by Jackson Pollock (1948):",
+        "slug": "music-production-fundamentals",
+        "description": "A prime example of Pollock's drip painting technique, this abstract expressionist piece is noted for its chaotic yet controlled splatters and swirls of paint, symbolizing the dynamism of the post-war era.",
+        "price": 149.99,
+        "instructor": "Alex Wilson",
+        "isFeatured": true,
+        "image": "/courses/music-prod.jpg"
+      },
+      {
+        "id": 7,
+        "title": "Songwriting Essentials",
+        "slug": "songwriting-essentials",
+        "description": "Learn the essentials of songwriting to express your musical creativity.",
+        "price": 159.99,
+        "instructor": "Samantha Miller",
+        "isFeatured": false,
+        "image": "/courses/song-writing.jpg"
+      },
+      {
+        "id": 8,
+        "title": "Les Demoiselles d'Avignon by Pablo Picasso (1907)",
+        "slug": "electronic-music-production",
+        "description": "This revolutionary work marks the birth of Cubism, featuring five female figures with distorted forms and fragmented perspectives, challenging conventional representations of the human figure.",
+        "price": 169.99,
+        "instructor": "Luke Harris",
+        "isFeatured": true,
+        "image": "/courses/music-prod.jpg"
+      },
+      {
+        "id": 9,
+        "title": "Classical Music History",
+        "slug": "classical-music-history",
+        "description": "Explore the rich history of classical music from its origins to the present day.",
+        "price": 179.99,
+        "instructor": "Grace Lee",
+        "isFeatured": false,
+        "image": "/courses/classical-music.jpg"
+      },
+      {
+        "id": 10,
+        "title": "Marilyn Diptych by Andy Warhol (1962)",
+        "slug": "blues-guitar-techniques",
+        "description": "This silkscreen painting features fifty images of Marilyn Monroe, half in vibrant color and half in black and white. It comments on the commodification of celebrity and the intersection of art and mass media.",
+        "price": 189.99,
+        "instructor": "Ethan Moore",
+        "isFeatured": true,
+        "image": "/courses/blues.jpg"
+      }
+    ]
+  }
+  
